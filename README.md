@@ -1,4 +1,6 @@
 # Dynamic Resource Allocation (DRA) for NVIDIA GPUs in Kubernetes
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FProject-HAMi%2Fk8s-dra-driver.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FProject-HAMi%2Fk8s-dra-driver?ref=badge_shield)
+
 
 This DRA resource driver is currently under active development and not yet
 designed for production use.
@@ -186,3 +188,7 @@ half-half:
 EOF
 ```
 -->
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FProject-HAMi%2Fk8s-dra-driver.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FProject-HAMi%2Fk8s-dra-driver?ref=badge_large)
